@@ -26,7 +26,7 @@ start: |
 
   9. Si estas tomando una compra, debes pagar la factura lightning, este pago estará retenido mientras el comprador realiza tu pago fiat. Debes contactarle y brindarle tus datos para ello. Una vez confirmes su pago, debes liberar los fondos por medio del comando /release para que le lleguen los sats al comprador.
 
-  Puedes encontrar más información sobre como utilizar este bot aquí 👇
+  Puedes encontrar más información sobre cómo utilizar este bot aquí 👇
 
   https://lnp2pbot.com/aprende
 
